@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    color: white;
+    /* background-color: #3d3d3d; */
+}
+body{
+    background-color: var(--backcolor);
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20230613/pngtree-black-and-white-gym-room-with-a-row-of-equipment-image_2911173.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
